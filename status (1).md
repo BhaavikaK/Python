@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Bhaavika Khanna
 
 #### Your section leader's name
 
-TODO
+Zhenyu Zhao
 
 #### Project title
 
-TODO
+
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Completed list of restaurant and their payment options, working on the graphics part and the main code.
 
 #### What have you not done for your project yet?
 
-TODO
+Combined the code to test it out and add the map function
 
 #### What problems, if any, have you encountered?
 
-TODO
+none till now
