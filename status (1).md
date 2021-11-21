@@ -18,7 +18,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-Completed list of restaurant and their payment options, working on the graphics part and the main code.
+Completed list of restaurants and their payment options, working on the graphics part and the main code.
 
 #### What have you not done for your project yet?
 
